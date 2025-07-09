@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-
+import profileimage from "./profile.jpeg"; 
 const About = () => (
     <div id="about" className="py-5">
         <Container>
@@ -14,7 +14,7 @@ const About = () => (
             </Col>
             <Col md={6}>
             <img
-                src="WhatsApp Image 2025-07-06 at 10.54.18 PM.jpeg"
+                src={profileimage}
                 className="img-fluid rounded"
                 alt="Rajshree"
              />
