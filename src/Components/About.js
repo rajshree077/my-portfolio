@@ -14,7 +14,7 @@ const About = () => (
             </Col>
             <Col md={6}>
             <img
-                src="https://via.placeholder.com/300"
+                src="WhatsApp Image 2025-07-06 at 10.54.18 PM.jpeg"
                 className="img-fluid rounded"
                 alt="Rajshree"
              />
